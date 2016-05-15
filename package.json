@@ -1,0 +1,35 @@
+{
+  "name": "inlinebot-randompic",
+  "version": "0.0.2",
+  "description": "randompic!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inlinebot/inlinebot-randompic.git"
+  },
+  "keywords": [
+    "line",
+    "bot",
+    "api",
+    "node",
+    "node.js",
+    "inline",
+    "sdk",
+    "example",
+    "randompic"
+  ],
+  "author": "Rollables",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inlinebot/inlinebot-randompic/issues"
+  },
+  "homepage": "https://github.com/inlinebot/inlinebot-randompic",
+  "dependencies": {
+    "inline-sdk": "~0.0.5"
+  },
+  "devDependencies": {}
+}
